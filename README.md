@@ -34,7 +34,9 @@ nothing and cruise control is switched off. A BRAKE light on the speedometer sho
 is on, or when the game, an AI helper or another mod holds the vehicle with the handbrake.
 Saved with the vehicle, works in multiplayer, AI helpers are not held back by it.
 
-## Files
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/files.jpg" alt="Files" width="100%">
+</p>
 - `modDesc.xml` - mod description, key binding, texts
 - `scripts/ParkingBrakeRegister.lua` - adds the parking brake to every drivable vehicle type (not horses)
 - `scripts/ParkingBrake.lua` - the parking brake itself, sync and save
@@ -42,11 +44,15 @@ Saved with the vehicle, works in multiplayer, AI helpers are not held back by it
 - `textures/` - the HUD light (symbol and word)
 - `icon_ParkingBrake.dds` - shop icon
 
-## Install
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/installation.jpg" alt="Installation" width="100%">
+</p>
 Zip the CONTENTS of this folder (modDesc.xml at the top of the zip, forward-slash paths) as
 `FS25_ParkingBrake_ProEdition.zip` and put it in the FS25 `mods` folder. Don't rename the zip.
 
-## License
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/license.jpg" alt="License" width="100%">
+</p>
 MIT, see `LICENSE`.
 
 ---
