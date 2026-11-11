@@ -1,6 +1,32 @@
-# Parking Brake Pro Edition (FS25)
+<p align="center">
+  <a href="https://github.com/DTM-Mods"><img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/dtm-header.jpg" alt="DTM Mods by PropaineX & Fennell" width="100%"></a>
+</p>
 
-Farming Simulator 25 mod by PropaineX. Version 1.0.9.0.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/icons/FS25_ParkingBrake_ProEdition.png" alt="Parking Brake Pro Edition icon" width="128">
+</p>
+
+<h1 align="center">Parking Brake Pro Edition</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Farming%20Simulator-25-2E6B4F" alt="Farming Simulator 25">
+  <a href="https://github.com/DTM-Mods/FS25_ParkingBrake_ProEdition/releases/latest"><img src="https://img.shields.io/github/v/release/DTM-Mods/FS25_ParkingBrake_ProEdition?label=version&color=D9A441" alt="Latest version"></a>
+  <img src="https://img.shields.io/badge/multiplayer-supported-2E6B4F" alt="Multiplayer supported">
+  <a href="https://github.com/DTM-Mods"><img src="https://img.shields.io/badge/DTM-Mods-143326" alt="DTM Mods"></a>
+</p>
+
+<p align="center">
+  <b>A real parking brake for every drivable vehicle.</b><br>
+  <sub>by PropaineX</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DTM-Mods/FS25_ParkingBrake_ProEdition/releases/latest"><img src="https://img.shields.io/badge/Download-latest%20release-D9A441?style=for-the-badge&logo=github&logoColor=143326&labelColor=E9C77A" alt="Download the latest release"></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/features.jpg" alt="Features" width="100%">
+</p>
 
 Press backslash (`\`) in any drivable vehicle to put the parking brake on, and again to release it
 (rebindable in the controls menu). While it is on, the vehicle holds with full brakes, the throttle does
@@ -22,3 +48,10 @@ Zip the CONTENTS of this folder (modDesc.xml at the top of the zip, forward-slas
 
 ## License
 MIT, see `LICENSE`.
+
+---
+
+<p align="center">
+  <a href="https://github.com/DTM-Mods"><img src="https://raw.githubusercontent.com/DTM-Mods/.github/main/assets/dtm-intro.gif" alt="DTM Mods by PropaineX & Fennell" width="420"></a><br>
+  <sub>Part of <a href="https://github.com/DTM-Mods">DTM Mods</a> (Dead To Me) by PropaineX & Fennell</sub>
+</p>
