@@ -1,0 +1,12 @@
+{
+  "2.jpg": {
+    "title": "Parking brake on",
+    "text": "Press \\ to set it; the red BRAKE light next to the speedometer shows it is on.",
+    "at": "bottom"
+  },
+  "3.jpg": {
+    "title": "And off again",
+    "text": "Press \\ again to release it and the light dims.",
+    "at": "bottom"
+  }
+}
