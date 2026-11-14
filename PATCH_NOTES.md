@@ -4,6 +4,10 @@
 
 # Patch notes
 
+## 1.0.9.1
+
+- The author now shows as **DTM Mods, PropaineX** in the mod list.
+
 ## 1.0.9.0
 - New icon with "PARKING BRAKE" written on it.
 
