@@ -4,6 +4,9 @@
 
 # Patch notes
 
+## 1.0.9.2
+- Meets the GIANTS ModHub checks (TestRunner): icon, BRAKE light textures and modDesc brought up to date, German description added.
+
 ## 1.0.9.1
 
 - The author now shows as **DTM Mods, PropaineX** in the mod list.

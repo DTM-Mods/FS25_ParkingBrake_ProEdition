@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="113">
+<modDesc descVersion="115">
     <author>DTM Mods, PropaineX</author>
-    <version>1.0.9.1</version>
+    <version>1.0.9.2</version>
     <title>
         <en>Parking Brake Pro Edition</en>
     </title>
@@ -10,7 +10,18 @@
 
 Press backslash (\) in any drivable vehicle to put the parking brake on, and again to release it. The key can be changed in the controls menu.
 
-While the parking brake is on, the vehicle holds with full brakes, the throttle does nothing and cruise control is switched off. A warning blinks if you try to drive. The BRAKE light on the speedometer is lit while the parking brake is on, and also whenever the game, an AI helper or another mod holds the vehicle with the handbrake. The parking brake is saved with the vehicle and works in multiplayer. AI helpers are not held back by it.]]></en>
+While the parking brake is on, the vehicle holds with full brakes, the throttle does nothing and cruise control is switched off. A warning blinks if you try to drive. The BRAKE light on the speedometer is lit while the parking brake is on, and also whenever the game, an AI helper or another mod holds the vehicle with the handbrake. The parking brake is saved with the vehicle and works in multiplayer. AI helpers are not held back by it.
+
+Changelog 1.0.9.2:
+- Meets the GIANTS ModHub checks (TestRunner): icon, BRAKE light textures and modDesc brought up to date, German description added.]]></en>
+        <de><![CDATA[Zieht die Feststellbremse in Farming Simulator 25.
+
+Drücke Backslash (\) in einem beliebigen fahrbaren Fahrzeug, um die Feststellbremse anzuziehen, und noch einmal, um sie zu lösen. Die Taste lässt sich im Steuerungsmenü ändern.
+
+Solange die Feststellbremse angezogen ist, hält das Fahrzeug mit voller Bremskraft, das Gaspedal bewirkt nichts und der Tempomat wird ausgeschaltet. Wenn du losfahren willst, blinkt eine Warnung. Die BRAKE-Leuchte am Tacho leuchtet, solange die Feststellbremse angezogen ist, und auch immer dann, wenn das Spiel, ein KI-Helfer oder eine andere Mod das Fahrzeug mit der Handbremse hält. Die Feststellbremse wird mit dem Fahrzeug gespeichert und funktioniert im Mehrspieler. KI-Helfer werden von ihr nicht aufgehalten.
+
+Changelog 1.0.9.2:
+- Erfüllt die GIANTS-ModHub-Prüfungen (TestRunner): Icon, Texturen der BRAKE-Leuchte und modDesc aktualisiert, deutsche Beschreibung hinzugefügt.]]></de>
     </description>
     <iconFilename>icon_ParkingBrake.dds</iconFilename>
     <multiplayer supported="true" />
