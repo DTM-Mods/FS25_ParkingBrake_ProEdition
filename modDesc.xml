@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="116">
     <author>DTM Mods, PropaineX</author>
-    <version>1.0.9.3</version>
+    <version>1.0.9.4</version>
     <title>
         <en>Parking Brake Pro Edition</en>
     </title>
@@ -12,16 +12,16 @@ GitHub: https://github.com/DTM-Mods/FS25_ParkingBrake_ProEdition
 
 While the parking brake is on, the vehicle holds with full brakes, the throttle does nothing and cruise control is switched off. A warning blinks if you try to drive. The BRAKE light on the speedometer is lit while the parking brake is on, and also whenever the game, an AI helper or another mod holds the vehicle with the handbrake. The parking brake is saved with the vehicle and works in multiplayer. AI helpers are not held back by it.
 
-Changelog 1.0.9.3:
-- Updated for the current game version (modDesc version 116).]]></en>
+Changelog 1.0.9.4:
+- Description in GIANTS' ModHub layout (category, price, upkeep or hotkeys at the top).]]></en>
         <de><![CDATA[Beschreibung: Fügt jedem fahrbaren Fahrzeug eine Feststellbremse hinzu: Ist sie angezogen, hält das Fahrzeug mit voller Bremskraft und fährt nicht los.
 Tastenkombinationen: Backslash (\) im Fahrzeug zieht die Feststellbremse an, noch einmal gedrückt löst sie. Controller: standardmäßig keine Belegung, unter Einstellungen > Steuerung festlegen.
 GitHub: https://github.com/DTM-Mods/FS25_ParkingBrake_ProEdition
 
 Solange die Feststellbremse angezogen ist, hält das Fahrzeug mit voller Bremskraft, das Gaspedal bewirkt nichts und der Tempomat wird ausgeschaltet. Wenn du losfahren willst, blinkt eine Warnung. Die BRAKE-Leuchte am Tacho leuchtet, solange die Feststellbremse angezogen ist, und auch immer dann, wenn das Spiel, ein KI-Helfer oder eine andere Mod das Fahrzeug mit der Handbremse hält. Die Feststellbremse wird mit dem Fahrzeug gespeichert und funktioniert im Mehrspieler. KI-Helfer werden von ihr nicht aufgehalten.
 
-Changelog 1.0.9.3:
-- An die aktuelle Spielversion angepasst (modDesc-Version 116).]]></de>
+Changelog 1.0.9.4:
+- Beschreibung im ModHub-Aufbau von GIANTS (Kategorie, Preis, Unterhalt bzw. Tasten oben).]]></de>
     </description>
     <iconFilename>icon_ParkingBrake.dds</iconFilename>
     <multiplayer supported="true" />
