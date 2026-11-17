@@ -6,17 +6,17 @@
         <en>Parking Brake Pro Edition</en>
     </title>
     <description>
-        <en><![CDATA[Applies the parking brake in Farming Simulator 25.
-
-Press backslash (\) in any drivable vehicle to put the parking brake on, and again to release it. The key can be changed in the controls menu.
+        <en><![CDATA[Description: Adds a parking brake to every drivable vehicle: while it is on, the vehicle holds with full brakes and does not drive off.
+Hotkeys: Backslash (\) in a vehicle puts the parking brake on, and again releases it. Controller: none by default, set one under Settings > Controls.
+GitHub: https://github.com/DTM-Mods/FS25_ParkingBrake_ProEdition
 
 While the parking brake is on, the vehicle holds with full brakes, the throttle does nothing and cruise control is switched off. A warning blinks if you try to drive. The BRAKE light on the speedometer is lit while the parking brake is on, and also whenever the game, an AI helper or another mod holds the vehicle with the handbrake. The parking brake is saved with the vehicle and works in multiplayer. AI helpers are not held back by it.
 
 Changelog 1.0.9.3:
 - Updated for the current game version (modDesc version 116).]]></en>
-        <de><![CDATA[Zieht die Feststellbremse in Farming Simulator 25.
-
-Drücke Backslash (\) in einem beliebigen fahrbaren Fahrzeug, um die Feststellbremse anzuziehen, und noch einmal, um sie zu lösen. Die Taste lässt sich im Steuerungsmenü ändern.
+        <de><![CDATA[Beschreibung: Fügt jedem fahrbaren Fahrzeug eine Feststellbremse hinzu: Ist sie angezogen, hält das Fahrzeug mit voller Bremskraft und fährt nicht los.
+Tastenkombinationen: Backslash (\) im Fahrzeug zieht die Feststellbremse an, noch einmal gedrückt löst sie. Controller: standardmäßig keine Belegung, unter Einstellungen > Steuerung festlegen.
+GitHub: https://github.com/DTM-Mods/FS25_ParkingBrake_ProEdition
 
 Solange die Feststellbremse angezogen ist, hält das Fahrzeug mit voller Bremskraft, das Gaspedal bewirkt nichts und der Tempomat wird ausgeschaltet. Wenn du losfahren willst, blinkt eine Warnung. Die BRAKE-Leuchte am Tacho leuchtet, solange die Feststellbremse angezogen ist, und auch immer dann, wenn das Spiel, ein KI-Helfer oder eine andere Mod das Fahrzeug mit der Handbremse hält. Die Feststellbremse wird mit dem Fahrzeug gespeichert und funktioniert im Mehrspieler. KI-Helfer werden von ihr nicht aufgehalten.
 

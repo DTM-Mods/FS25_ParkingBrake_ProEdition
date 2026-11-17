@@ -35,50 +35,29 @@ Frein de stationnement Pro Edition
 
 ## Description English
 ```text
-Parking Brake Pro Edition adds a real parking brake to every drivable vehicle. Press backslash (\) to put it on and press it again to release it.
+Description: Adds a parking brake to every drivable vehicle: while it is on, the vehicle holds with full brakes and does not drive off.
+Hotkeys: Backslash (\) in a vehicle puts the parking brake on, and again releases it. Controller: none by default, set one under Settings > Controls.
+GitHub: https://github.com/DTM-Mods/FS25_ParkingBrake_ProEdition
 
-- Works in every drivable vehicle; the key can be changed in the controls menu
-- While it is on, the vehicle holds with full brakes, the throttle does nothing and cruise control is switched off
-- A warning blinks if you try to drive with the brake on
-- A BRAKE light next to the speedometer is lit while the parking brake is on, and also whenever the game, an AI helper or another mod holds the vehicle with the handbrake
-- The parking brake is saved with the vehicle
-- AI helpers are not held back by it
-- Works in multiplayer
-
-Changelog 1.0.9.0:
-- New mod icon with "PARKING BRAKE" written on it.
+While the parking brake is on, the vehicle holds with full brakes, the throttle does nothing and cruise control is switched off. A warning blinks if you try to drive. The BRAKE light on the speedometer is lit while the parking brake is on, and also whenever the game, an AI helper or another mod holds the vehicle with the handbrake. The parking brake is saved with the vehicle and works in multiplayer. AI helpers are not held back by it.
 ```
 
 ## Description German
 ```text
-Feststellbremse Pro Edition gibt jedem Fahrzeug eine echte Feststellbremse. Drück Backslash (\), um sie anzuziehen, und noch einmal, um sie zu lösen.
+Beschreibung: Fügt jedem fahrbaren Fahrzeug eine Feststellbremse hinzu: Ist sie angezogen, hält das Fahrzeug mit voller Bremskraft und fährt nicht los.
+Tastenkombinationen: Backslash (\) im Fahrzeug zieht die Feststellbremse an, noch einmal gedrückt löst sie. Controller: standardmäßig keine Belegung, unter Einstellungen > Steuerung festlegen.
+GitHub: https://github.com/DTM-Mods/FS25_ParkingBrake_ProEdition
 
-- Funktioniert in jedem fahrbaren Fahrzeug; die Taste lässt sich im Steuerungsmenü ändern
-- Solange sie angezogen ist, hält das Fahrzeug mit voller Bremskraft, Gas geben bewirkt nichts und der Tempomat wird ausgeschaltet
-- Eine Warnung blinkt, wenn du mit angezogener Bremse losfahren willst
-- Eine BRAKE-Leuchte neben dem Tacho leuchtet, solange die Feststellbremse angezogen ist, und auch immer dann, wenn das Spiel, ein Helfer oder eine andere Mod das Fahrzeug mit der Handbremse hält
-- Die Feststellbremse wird mit dem Fahrzeug gespeichert
-- Helfer werden von ihr nicht aufgehalten
-- Funktioniert im Mehrspielermodus
-
-Changelog 1.0.9.0:
-- Neues Mod-Symbol mit der Aufschrift "PARKING BRAKE".
+Solange die Feststellbremse angezogen ist, hält das Fahrzeug mit voller Bremskraft, das Gaspedal bewirkt nichts und der Tempomat wird ausgeschaltet. Wenn du losfahren willst, blinkt eine Warnung. Die BRAKE-Leuchte am Tacho leuchtet, solange die Feststellbremse angezogen ist, und auch immer dann, wenn das Spiel, ein KI-Helfer oder eine andere Mod das Fahrzeug mit der Handbremse hält. Die Feststellbremse wird mit dem Fahrzeug gespeichert und funktioniert im Mehrspieler. KI-Helfer werden von ihr nicht aufgehalten.
 ```
 
 ## Description French
 ```text
-Frein de stationnement Pro Edition ajoute un vrai frein de stationnement à chaque véhicule. Appuyez sur la barre oblique inversée (\) pour le serrer, et à nouveau pour le desserrer.
+Description : ajoute un frein de stationnement à chaque véhicule conduisible : tant qu'il est serré, le véhicule est retenu avec tous ses freins et ne démarre pas.
+Raccourcis clavier : la barre oblique inversée (\) dans un véhicule serre le frein de stationnement, une nouvelle pression le desserre. Manette : aucune touche par défaut, à définir dans Paramètres > Commandes.
+GitHub : https://github.com/DTM-Mods/FS25_ParkingBrake_ProEdition
 
-- Fonctionne dans chaque véhicule conduisible ; la touche peut être modifiée dans le menu des commandes
-- Tant qu'il est serré, le véhicule est retenu avec tous ses freins, l'accélérateur n'a aucun effet et le régulateur de vitesse est coupé
-- Un avertissement clignote si vous essayez de rouler frein serré
-- Un voyant BRAKE à côté du compteur s'allume tant que le frein de stationnement est serré, et aussi chaque fois que le jeu, un ouvrier ou un autre mod retient le véhicule avec le frein à main
-- Le frein de stationnement est sauvegardé avec le véhicule
-- Les ouvriers ne sont pas bloqués par lui
-- Fonctionne en multijoueur
-
-Changelog 1.0.9.0 :
-- Nouvelle icône du mod avec l'inscription "PARKING BRAKE".
+Tant que le frein de stationnement est serré, le véhicule est retenu avec tous ses freins, l'accélérateur n'a aucun effet et le régulateur de vitesse est coupé. Un avertissement clignote si vous essayez de rouler. Le voyant BRAKE du compteur s'allume tant que le frein de stationnement est serré, et aussi chaque fois que le jeu, un ouvrier ou un autre mod retient le véhicule avec le frein à main. Le frein de stationnement est sauvegardé avec le véhicule et fonctionne en multijoueur. Les ouvriers ne sont pas bloqués par lui.
 ```
 
 ## Before uploading
