@@ -4,6 +4,10 @@
 
 # Patch notes
 
+## 1.0.9.3
+
+- Updated for the current game version: modDesc descVersion 116 (the game build of 2026-10-27; GIANTS TestRunner 0.9.24 accepts only 116).
+
 ## 1.0.9.2
 - Meets the GIANTS ModHub checks (TestRunner): icon, BRAKE light textures and modDesc brought up to date, German description added.
 
